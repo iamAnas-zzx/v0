@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { SignIn, SignedOut, SignInButton, SignUpButton, SignedIn, UserButton } from '@clerk/nextjs';
+import { SignedOut, SignInButton, SignUpButton, SignedIn, UserButton } from '@clerk/nextjs';
 import { Button } from "@/components/ui/button";
 
 const Navbar = () => {
